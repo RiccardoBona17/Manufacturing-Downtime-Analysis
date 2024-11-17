@@ -2,7 +2,7 @@
 
 ## Situation
 
-You work as a Production Manager for Wolf Cola, a soft drink company that handles all its manufacturing operations in Philadelphia.
+You work as a Production Manager for _Wolf Cola_, a soft drink company that handles all its manufacturing operations in Philadelphia.
 
 Frank, the former, manager, kicked off a productivity improvement project for the bottling production line and left an Excel file with the data he collected 
 (dataset kindly provided by https://mavenanalytics.io/).
