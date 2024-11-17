@@ -25,5 +25,3 @@ Frank, the former, manager, kicked off a productivity improvement project for th
      - Color-code values according to their magnitude
        
 4) Write down a brief list of actions that should be performed to improve line's efficiency
-
-
