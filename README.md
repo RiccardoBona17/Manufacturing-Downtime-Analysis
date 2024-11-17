@@ -1,4 +1,4 @@
-# EXCEL DATA ANALYSIS PROJECT 
+# EXCEL DATA ANALYSIS PROJECT [![MicrosoftExcel](https://cdn3.emoji.gg/emojis/1938_MicrosoftExcel.png)](https://emoji.gg/emoji/1938_MicrosoftExcel)
 
 ## Situation
 
